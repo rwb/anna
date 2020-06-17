@@ -1,3 +1,4 @@
+```R
 plot.new()
 plot.window(xlim=c(-0.2,1.2),ylim=c(-1,1))
 segments(x0=0,x1=1,y0=0,y1=0,lty=1,lwd=2)
@@ -23,3 +24,4 @@ text(x=0.7,y=-0.15,"0.7",cex=0.5,col="green")
 text(x=0.8,y=-0.15,"0.8",cex=0.5,col="green")
 text(x=0.9,y=-0.15,"0.9",cex=0.5,col="green")
 text(x=1.0,y=-0.15,"1.0",cex=0.5,col="green")
+```
